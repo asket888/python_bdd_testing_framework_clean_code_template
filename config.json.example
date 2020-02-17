@@ -1,0 +1,37 @@
+{
+    "LOCALHOST": {
+        "url": "YOUR_URL",
+        "login": "YOUR_LOGIN",
+        "password": "YOUR_PASSWORD"
+    },
+    "STAGE_US": {
+        "url": "YOUR_URL",
+        "login": "YOUR_LOGIN",
+        "password": "YOUR_PASSWORD"
+    },
+    "STAGE_RU": {
+        "url": "YOUR_URL",
+        "login": "YOUR_LOGIN",
+        "password": "YOUR_PASSWORD"
+    },
+    "STAGE_PL": {
+        "url": "YOUR_URL",
+        "login": "YOUR_LOGIN",
+        "password": "YOUR_PASSWORD"
+    },
+    "PROD_US": {
+        "url": "YOUR_URL",
+        "login": "YOUR_LOGIN",
+        "password": "YOUR_PASSWORD"
+    },
+    "PROD_RU": {
+        "url": "YOUR_URL",
+        "login": "YOUR_LOGIN",
+        "password": "YOUR_PASSWORD"
+    },
+    "PROD_PL": {
+        "url": "YOUR_URL",
+        "login": "YOUR_LOGIN",
+        "password": "YOUR_PASSWORD"
+    }
+}
